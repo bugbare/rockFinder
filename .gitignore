@@ -3,3 +3,5 @@
 .idea/
 workspace.xml
 Data
+__pycache__
+.vscode
